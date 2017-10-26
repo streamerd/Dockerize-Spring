@@ -1,7 +1,6 @@
 /target
 /.m2
 
-
 /.classpath
 /.project
 /.settings
@@ -11,3 +10,4 @@
 .*.swp
 .DS_Store
 /src/main/liberty/config/server.env
+*.iml
